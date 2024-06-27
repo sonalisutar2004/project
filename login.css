@@ -1,0 +1,27 @@
+body{
+    background-color: rgb(187, 244, 244);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.signIn-container{
+    background-color:aqua;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 270px;
+    height: 450px;
+}
+.signin-body{
+    margin: 25px 30px;
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    justify-content:space-between;
+}
+.signin-input-box{
+    height: 60%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
